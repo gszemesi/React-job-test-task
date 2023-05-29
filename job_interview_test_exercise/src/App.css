@@ -1,0 +1,33 @@
+.App {
+    text-align: center;
+    align-items: center;
+    line-height: 50px;
+}
+
+.company {
+    background-color: rgb(190, 189, 189);
+    border: 2px solid black;
+    border-radius: 10px;
+    width: fit-content;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 30px;
+}
+
+.employee {
+    background-color: rgb(190, 189, 189);
+    border: 2px solid black;
+    border-radius: 10px;
+    width: fit-content;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 30px;
+}
+
+.textarea {
+    resize: none;
+}
+
+.error {
+    color: red;
+}
